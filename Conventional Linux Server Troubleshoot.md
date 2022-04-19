@@ -1,4 +1,4 @@
-Check Running Services Port
+Check Port on Running Services 
 
 ```
 netstat -tlpn
@@ -10,7 +10,7 @@ Check Running Services
 ps -ef | grep service-name
 ```
 
-Check Disk / Storage (Available)
+Check Available Disk / Storage
 
 ```
 df -h
